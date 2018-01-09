@@ -313,7 +313,7 @@ header .intro-text .intro-heading {
    font-size: 35px;
    font-family: palatino;
    font-weight: 300;
-   letter-spacing: 4px;
+   letter-spacing: 2px;
 }
 
 .h3_home {
@@ -353,11 +353,11 @@ header .intro-text .intro-heading {
    }
 
    .intro-header {
-      padding-top: 40px;
+      padding-top: 20px;
    }
 
    #page-top {
-      padding-bottom: 80px
+      padding-bottom: 50px
    }
 
    .h1_home {
@@ -365,7 +365,7 @@ header .intro-text .intro-heading {
       font-size: 45px;
       font-family: palatino;
       font-weight: 300;
-      letter-spacing: 4px;
+      letter-spacing: 3px;
    }
 
    .h3_home {

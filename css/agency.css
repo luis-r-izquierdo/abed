@@ -305,7 +305,7 @@ header .intro-text .intro-heading {
 }
 
 .intro-header {
-   padding-top: 10px;
+   padding-top: 0px;
 }
 
 .h1_home {
@@ -321,8 +321,8 @@ header .intro-text .intro-heading {
    font-size: 15px;
    font-family: palatino;
    font-weight: 300;
-   margin-top: 10px;
-   margin-bottom: 30px;
+   margin-top: 5px;
+   margin-bottom: 20px;
 }
 
 .copyright {
@@ -353,7 +353,7 @@ header .intro-text .intro-heading {
    }
 
    .intro-header {
-      padding-top: 20px;
+      padding-top: 0px;
    }
 
    #page-top {
@@ -374,7 +374,7 @@ header .intro-text .intro-heading {
       font-family: palatino;
       font-weight: 300;
       margin-top: 10px;
-      margin-bottom: 30px;
+      margin-bottom: 20px;
    }
 
 
